@@ -1,0 +1,6 @@
+module Pods_UBottomSheet {
+  umbrella header "Pods-UBottomSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}
